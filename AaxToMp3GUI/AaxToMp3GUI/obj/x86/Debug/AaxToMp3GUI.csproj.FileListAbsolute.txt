@@ -1,0 +1,11 @@
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3GUI.exe
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3GUI.pdb
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.Form1.resources
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.Properties.Resources.resources
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.csproj.GenerateResource.Cache
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.exe
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.pdb
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AAXSDKWin.dll
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3.exe
+c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\ffmpeg.exe
+C:\Users\Mitja\SkyDrive\Documents\Visual Studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.csprojResolveAssemblyReference.cache

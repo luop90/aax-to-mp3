@@ -1,0 +1,28 @@
+﻿Der Buildvorgang wurde am 27.10.2014 18:55:39 gestartet.
+     1>Projekt "c:\Users\Mitja\SkyDrive\documents\visual studio 2010\Projects\AaxToMp3_2\AaxToMp3_2\AaxToMp3_2.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         Aktualisieren des Timestamps von "Debug\AaxToMp3_2.unsuccessfulbuild".
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AaxToMp3_2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AaxToMp3_2.cpp
+         AaxToMp3_2.cpp
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3_2\Debug\AaxToMp3_2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AaxToMp3_2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3_2\Debug\AaxToMp3_2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3_2\Debug\AaxToMp3_2.lib" /MACHINE:X86 Debug\AaxToMp3_2.exe.embed.manifest.res
+         Debug\AaxToMp3_2.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AaxToMp3_2.exe.embed.manifest" /manifest Debug\AaxToMp3_2.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         AaxToMp3_2.vcxproj -> c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3_2\Debug\AaxToMp3_2.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\AaxToMp3_2.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\AaxToMp3_2.lastbuildstate".
+     1>Die Erstellung des Projekts "c:\Users\Mitja\SkyDrive\documents\visual studio 2010\Projects\AaxToMp3_2\AaxToMp3_2\AaxToMp3_2.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:01.00

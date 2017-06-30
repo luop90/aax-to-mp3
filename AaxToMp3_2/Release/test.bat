@@ -1,0 +1,1 @@
+cmd /K "AaxToMp3.exe -i ""E:\\test.aax"""

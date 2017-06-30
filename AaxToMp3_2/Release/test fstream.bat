@@ -1,0 +1,1 @@
+cmd /K "AaxToMp3_2.exe -i E:\test2.aax -o fstream.wav
