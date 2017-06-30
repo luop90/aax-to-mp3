@@ -56,8 +56,8 @@ namespace AaxToMp3GUI
             try
             {
                 Invoke((MethodInvoker)delegate { label2.Text = 
-                    "Dauer:   " + cs.TimeSpan.ToString() + 
-                  "\nGröße:   " + FormatKilobytes(cs.KiloBytes) + 
+                    "Duration:   " + cs.TimeSpan.ToString() + 
+                  "\nSize:   " + FormatKilobytes(cs.KiloBytes) + 
                   "\nBitrate: " + cs.Bitrate; });
             }
             catch (Exception){}
