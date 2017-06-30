@@ -69,7 +69,7 @@ namespace AaxToMp3GUI
             try
             {
                 Invoke((MethodInvoker)delegate { 
-                label2.Text = "Umwandlung beendet."; 
+                label2.Text = "Conversion finished."; 
                 button1.Enabled = button2.Enabled = true; });
             }
             catch (Exception) { }
