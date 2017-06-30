@@ -23,7 +23,7 @@ namespace AaxToMp3GUI
             set { 
                 filename = value;
                 if (value == null)
-                    value = "Keine Datei ausgewählt";
+                    value = "No file selected.";
             Invoke((MethodInvoker)delegate { 
                 this.label1.Text = Path.GetFileName(value);
                 this.button2.Enabled = filename != null;
@@ -86,7 +86,7 @@ namespace AaxToMp3GUI
             string outputFile = Path.Combine(Path.GetDirectoryName(Filename), Path.GetFileNameWithoutExtension(Filename) + ".mp3");
             if (File.Exists(outputFile))
             {
-                if (MessageBox.Show("Die Datei " + Path.GetFileName(outputFile) + " existiert bereits.\nSoll die Datei überschrieben werden?", "Datei existiert bereits", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == System.Windows.Forms.DialogResult.Yes)
+                if (MessageBox.Show("The file " + Path.GetFileName(outputFile) + " already exists.\nOverwrite the file?", "File already exists", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == System.Windows.Forms.DialogResult.Yes)
                     File.Delete(outputFile);
             }
             button1.Enabled = button2.Enabled = false;
