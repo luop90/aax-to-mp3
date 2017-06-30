@@ -68,7 +68,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(119, 13);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Keine Datei ausgewählt";
+            this.label1.Text = "No file selected";
             // 
             // label2
             // 
