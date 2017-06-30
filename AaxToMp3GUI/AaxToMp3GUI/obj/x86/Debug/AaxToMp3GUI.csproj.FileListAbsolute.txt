@@ -9,3 +9,14 @@ c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToM
 c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3.exe
 c:\users\mitja\skydrive\documents\visual studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\ffmpeg.exe
 C:\Users\Mitja\SkyDrive\Documents\Visual Studio 2010\Projects\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.csprojResolveAssemblyReference.cache
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AAXSDKWin.dll
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\ffmpeg.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3GUI.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Debug\AaxToMp3GUI.pdb
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.csprojResolveAssemblyReference.cache
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.Form1.resources
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.Properties.Resources.resources
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.csproj.GenerateResource.Cache
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Debug\AaxToMp3GUI.pdb

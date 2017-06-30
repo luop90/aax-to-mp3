@@ -1,0 +1,10 @@
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Release\AAXSDKWin.dll
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Release\AaxToMp3.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Release\ffmpeg.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Release\AaxToMp3GUI.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\bin\Release\AaxToMp3GUI.pdb
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Release\AaxToMp3GUI.Form1.resources
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Release\AaxToMp3GUI.Properties.Resources.resources
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Release\AaxToMp3GUI.csproj.GenerateResource.Cache
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Release\AaxToMp3GUI.exe
+E:\Users\Luke\Documents\code\aax-to-mp3\AaxToMp3GUI\AaxToMp3GUI\obj\x86\Release\AaxToMp3GUI.pdb
